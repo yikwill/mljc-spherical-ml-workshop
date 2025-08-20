@@ -11,3 +11,5 @@
 `pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu`
 
 `pip install --no-build-isolation -r requirements.txt`
+
+`pip install netCDF4`
