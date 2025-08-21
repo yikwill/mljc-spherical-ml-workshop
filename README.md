@@ -1,6 +1,6 @@
 # mljc-spherical-ml-workshop
 
-Run these terminal commands in order.
+If you're running the notebooks in a GitHub Codespace, run these terminal commands in order first. You are likely to run into errors if you try these exact commands on your personal computer, so you'll unfortunately have to find another way to get the key packages (`torch`, `torch-harmonics`, `earth2grid`) installed. Visit the documentation of those packages for more help.
 
 `python -m venv venv`
 
